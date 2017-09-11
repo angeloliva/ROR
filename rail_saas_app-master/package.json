@@ -1,0 +1,9 @@
+{
+  "name": "saas",
+  "private": true,
+  "dependencies": {
+  },
+  "scripts": {
+    "start": "npm start"
+  }
+}
